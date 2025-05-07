@@ -1,7 +1,9 @@
 
 public class DemoExcelsheet {
 
-	
+	public void m() {
+		System.out.println("This is m()");
+	}
 	public void m1() {
 		System.out.println("This is m1()");
 	}
